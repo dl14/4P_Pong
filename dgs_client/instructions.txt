@@ -1,0 +1,29 @@
+Welcome to 4 Player Pong!
+
+The player will receive a paddle 
+dependent on which order they 
+join the game.
+
+P0 will appear on the bottom, P1 
+will appear on top, P2 will 
+appear to the left, and P3 will 
+appear on the right
+
+Objective:
+- The objective of the game is to 
+  have the LEAST amount of points at 
+  the end of the game
+- A player scores a point if the ball
+  hits the player's wall
+
+Instructions:
+- Left and Right buttons allow players 
+  to move their paddles
+- If you are P2 or P3 left and right are
+  treated as if you were of the same 
+  orientation as P0
+  (Keyboard shortcuts A and D can also be used)
+- The player that starts the game MUST be
+  P0 (the first player that joins the game) 
+  and must not disconnect from the server 
+  while the game is going on
