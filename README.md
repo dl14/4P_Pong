@@ -16,3 +16,9 @@ NOTE: if you are P0 DO NOT disconnect from the server during the game.
 
 The goal of the game is to have the lowest score at the end of the game.
 A player receives points once the ball hits his side of the game.
+
+Update Version 1.1:
+Allows for main player to control everything (change in objectrepo.cpp)
+
+Update Version 1.2:
+Allows compatibility with Mac (no change in Code)
