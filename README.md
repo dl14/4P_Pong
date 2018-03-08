@@ -7,6 +7,8 @@ First run the server.
 Run the client next and connect to the server using the IP address and port given by the server.
 Once the Get Connected status is shown, the game can begin!
 
+![alt text](https://github.com/dl14/4P_Pong/blob/master/client_image.PNG)
+
 Instructions for the game:
 
 Once a player is connected to the server, he/she can join the game (if a current game is not running).
