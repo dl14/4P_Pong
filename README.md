@@ -16,7 +16,7 @@ To do so, press the join button and your user name should show up on the Users g
 If you are P0 you are responsible for starting and stopping the game.
 NOTE: if you are P0 DO NOT disconnect from the server during the game.
 
-![alt text](https://github.com/dl14/4P_Pong/blob/master/client_image.PNG)
+![alt text](https://github.com/dl14/4P_Pong/blob/master/client_image_capture.PNG)
 
 The goal of the game is to have the lowest score at the end of the game.
 A player receives points once the ball hits his side of the game.
